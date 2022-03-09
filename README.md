@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+My name is Swimmy.  
+I'm Android Developer in CyberAgent.  
+
+### Qiia
+https://t.co/rqcwyVGjg4
+
+### Ameba
+https://t.co/aSWWwVOOi0
 
 <!--
 **reo-androider/reo-androider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
