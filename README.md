@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swimmy</h1>
-<h3 align="center">Android Engineer with CyberAgent, Inc</h3>
+<h3 align="center">Android Engineer in CyberAgent, Inc</h3>
 
 - 🌱 I’m currently learning **JetpackCompose and Ktor**
 
